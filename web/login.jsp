@@ -52,7 +52,7 @@
             
             <div class="bg1">
                     <div class="main">
-                        <!--content end-->
+                        <!--content  end-->
                         <!--footer -->
                         <footer>
                             <ul id="icons">
