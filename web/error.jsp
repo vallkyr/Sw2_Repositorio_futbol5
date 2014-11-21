@@ -1,7 +1,7 @@
 <%-- 
     Document   : error
     Created on : 05/09/2014, 10:04:34 PM
-    Author     : utor
+    Author     : Autor
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
